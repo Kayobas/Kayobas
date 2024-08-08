@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kayobas
 - 👀 I’m interested in programing and cybersecurity
 - 🌱 I’m currently a Systems Enginnering undergraduate at UFMG 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in linkedin/x/gmail/etc
+- 💞️ I’m looking to learn backend programing languages such as C/C++ Java and PHP 
+- 📫 How to reach me: linkedin/x/gmail/etc
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
