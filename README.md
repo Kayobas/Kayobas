@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing and cybersecurity
 - 🌱 I’m currently a Systems Enginnering undergraduate at UFMG 
 - 💞️ I’m looking to learn backend programing languages such as C/C++ Java and PHP 
-- 📫 How to reach me: linkedin/x/gmail/etc
+- 📫 How to reach me: www.linkedin.com/in/engsis-caio-cesar 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
